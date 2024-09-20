@@ -1,5 +1,11 @@
 package first_package;
 
-public class Trail {
+import org.testng.annotations.Test;
 
+public class Trail {
+@Test
+public void addNewMethod()
+{
+	
+}
 }
