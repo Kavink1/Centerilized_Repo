@@ -6,6 +6,6 @@ public class Trail {
 @Test
 public void addNewMethod()
 {
-	
+	System.out.println("first hi");
 }
 }
