@@ -7,5 +7,6 @@ public class Trail {
 public void addNewMethod()
 {
 	System.out.println("first hi");
+	System.out.println("Second hi");
 }
 }
