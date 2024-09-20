@@ -1,7 +1,13 @@
 package first_package;
 
-public class Trail {
-public static void main(String[] args) {
-	 
-}
+import org.testng.annotations.Test;
+
+public class Trail 
+{
+	@Test
+	public void demo()
+	{
+		
+	}
+	
 }
