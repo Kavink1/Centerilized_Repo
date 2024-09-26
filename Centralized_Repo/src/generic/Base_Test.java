@@ -9,6 +9,5 @@ public class Base_Test
 	@BeforeMethod
 	public void ssOpenApp()
 	{
-		
 	}
 }
